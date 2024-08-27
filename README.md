@@ -6,7 +6,7 @@ Project Overview
 The goal of this project is to analyze supermarket sales data to extract meaningful insights that can aid in decision-making and strategic planning. The dataset includes various fields such as Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quantity, Tax 5%, Total, Date, Time, Payment, cogs, gross margin percentage, gross income, and Rating.
 [View the SQL file](SQLQuery10_Supermarket.sql)
 [View the Tableau screenshot](Supermarket.png)
-[View the Tableau file](Supermarket%20Sales_EDA%20V1.twbx)
+[View the Tableau file](Supermarket%20Sales_EDA%20v1.twbx)
 
 
 
